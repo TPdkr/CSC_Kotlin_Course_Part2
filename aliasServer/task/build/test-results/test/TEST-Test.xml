@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-02-29T21:45:58" hostname="fedora" time="0.276">
+  <properties/>
+  <testcase name="teamTeamServiceTest()" classname="Test" time="0.194"/>
+  <testcase name="gameResultsServiceTest()" classname="Test" time="0.007"/>
+  <testcase name="identifierFactoryClassTest()" classname="Test" time="0.003"/>
+  <testcase name="getAllGameResultsMethodTest()" classname="Test" time="0.003"/>
+  <testcase name="generateCardsMethodTest()" classname="Test" time="0.005"/>
+  <testcase name="cardTest()" classname="Test" time="0.012"/>
+  <testcase name="teamClassTest()" classname="Test" time="0.004"/>
+  <testcase name="[1] words=[], expected=[]" classname="Test" time="0.008"/>
+  <testcase name="[2] words=[dog], expected=[Word(word=dog)]" classname="Test" time="0.001"/>
+  <testcase name="[3] words=[dog, cat], expected=[Word(word=dog), Word(word=cat)]" classname="Test" time="0.001"/>
+  <testcase name="generateTeamsForOneRoundMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="saveGameResultsMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="uniqueIdentifierMethodTest()" classname="Test" time="0.0"/>
+  <testcase name="getCardByIndexMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="cardServiceTest()" classname="Test" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
